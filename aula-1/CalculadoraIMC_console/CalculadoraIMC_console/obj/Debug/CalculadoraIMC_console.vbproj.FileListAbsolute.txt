@@ -1,0 +1,11 @@
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\bin\Debug\CalculadoraIMC_console.exe.config
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\bin\Debug\CalculadoraIMC_console.exe
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\bin\Debug\CalculadoraIMC_console.pdb
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\bin\Debug\CalculadoraIMC_console.xml
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\obj\Debug\CalculadoraIMC_console.vbprojAssemblyReference.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\obj\Debug\CalculadoraIMC_console.Resources.resources
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\obj\Debug\CalculadoraIMC_console.vbproj.GenerateResource.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\obj\Debug\CalculadoraIMC_console.vbproj.CoreCompileInputs.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\obj\Debug\CalculadoraIMC_console.exe
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\obj\Debug\CalculadoraIMC_console.xml
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_console\CalculadoraIMC_console\obj\Debug\CalculadoraIMC_console.pdb

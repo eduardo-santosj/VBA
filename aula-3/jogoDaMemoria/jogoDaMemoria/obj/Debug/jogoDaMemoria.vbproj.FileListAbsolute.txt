@@ -1,0 +1,12 @@
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\bin\Debug\jogoDaMemoria.exe.config
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\bin\Debug\jogoDaMemoria.exe
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\bin\Debug\jogoDaMemoria.pdb
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\bin\Debug\jogoDaMemoria.xml
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.vbprojAssemblyReference.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.jogoDaMemoria.resources
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.Resources.resources
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.vbproj.GenerateResource.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.vbproj.CoreCompileInputs.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.exe
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.xml
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-3\jogoDaMemoria\jogoDaMemoria\obj\Debug\jogoDaMemoria.pdb

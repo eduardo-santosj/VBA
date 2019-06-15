@@ -1,0 +1,12 @@
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\bin\Debug\CalculadoraIMC_windowsForms.exe.config
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\bin\Debug\CalculadoraIMC_windowsForms.exe
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\bin\Debug\CalculadoraIMC_windowsForms.pdb
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\bin\Debug\CalculadoraIMC_windowsForms.xml
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.vbprojAssemblyReference.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.IMC.resources
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.Resources.resources
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.vbproj.GenerateResource.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.vbproj.CoreCompileInputs.cache
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.exe
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.xml
+C:\Users\eduardo.sjacinto\Desktop\aulas\aula-1\CalculadoraIMC_windowsForms\CalculadoraIMC_windowsForms\obj\Debug\CalculadoraIMC_windowsForms.pdb
