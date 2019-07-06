@@ -39,7 +39,7 @@ Partial Class jogoDaMemoria
         Me.Pbx8 = New System.Windows.Forms.PictureBox()
         Me.Pbx12 = New System.Windows.Forms.PictureBox()
         Me.Pbx16 = New System.Windows.Forms.PictureBox()
-        Me.ListView1 = New System.Windows.Forms.ListView()
+        Me.TableLayoutPanel1 = New System.Windows.Forms.TableLayoutPanel()
         CType(Me.Pbx1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Pbx5, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Pbx9, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -61,6 +61,7 @@ Partial Class jogoDaMemoria
         'Pbx1
         '
         Me.Pbx1.Image = Global.jogoDaMemoria.My.Resources.Resources.capitao
+        Me.Pbx1.InitialImage = Nothing
         Me.Pbx1.Location = New System.Drawing.Point(39, 38)
         Me.Pbx1.Name = "Pbx1"
         Me.Pbx1.Size = New System.Drawing.Size(90, 90)
@@ -218,16 +219,17 @@ Partial Class jogoDaMemoria
         Me.Pbx16.TabStop = False
         Me.Pbx16.Tag = "8"
         '
-        'ListView1
+        'TableLayoutPanel1
         '
-        Me.ListView1.AutoArrange = False
-        Me.ListView1.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.ListView1.GridLines = True
-        Me.ListView1.Location = New System.Drawing.Point(652, 38)
-        Me.ListView1.Name = "ListView1"
-        Me.ListView1.Size = New System.Drawing.Size(378, 446)
-        Me.ListView1.TabIndex = 16
-        Me.ListView1.UseCompatibleStateImageBehavior = False
+        Me.TableLayoutPanel1.ColumnCount = 2
+        Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.TableLayoutPanel1.Location = New System.Drawing.Point(697, 51)
+        Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
+        Me.TableLayoutPanel1.RowCount = 1
+        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.TableLayoutPanel1.Size = New System.Drawing.Size(237, 153)
+        Me.TableLayoutPanel1.TabIndex = 16
         '
         'jogoDaMemoria
         '
@@ -236,7 +238,7 @@ Partial Class jogoDaMemoria
         Me.BackgroundImage = Global.jogoDaMemoria.My.Resources.Resources.poster2
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(1042, 632)
-        Me.Controls.Add(Me.ListView1)
+        Me.Controls.Add(Me.TableLayoutPanel1)
         Me.Controls.Add(Me.Pbx16)
         Me.Controls.Add(Me.Pbx12)
         Me.Controls.Add(Me.Pbx8)
@@ -293,5 +295,5 @@ Partial Class jogoDaMemoria
     Friend WithEvents Pbx8 As PictureBox
     Friend WithEvents Pbx12 As PictureBox
     Friend WithEvents Pbx16 As PictureBox
-    Friend WithEvents ListView1 As ListView
+    Friend WithEvents TableLayoutPanel1 As TableLayoutPanel
 End Class
