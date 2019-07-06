@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="jogoDaForca.exe" version="1.0.0.1" publicKeyToken="4e47d21b842dc688" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="jogoDaForca" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="jogoDaForca.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto UAC
+          Se desejar mudar o nível de Controle de Conta de Usuário do Windows, substitua o 
+          nó requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se deseja usar a Virtualização de Arquivos e Registro para compatibilidade 
+         com versões anteriores, exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="jogoDaForca.exe" size="88056">
+      <assemblyIdentity name="jogoDaForca" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>m/Zi+z2yEozLApqF6/UxGqklFuDdTiQAcHEK9UW7wKs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="jogoDaForca.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c922zfRb5ORzqEo8SDjt8Mx8lDMhGTWhqKcK/oileDM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SENACEDU\eduardo.sjacinto" issuerKeyHash="5c61fbf8c7fd73099870e3bb52d9329f65919c69" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>duCBKH+/+7Fs9u8EUsaIHa7Lk58+k2fnP7g2ZGbLu6E=</DigestValue></Reference></SignedInfo><SignatureValue>GGFwM4BozEINDsl7P9Q4gJybQ5DXWN2R/enZIIsz2OUjRZJtstR0Pyv114n68mKgfgQ+MQlAiCnAl0SKpa/sJQoYAEFQmmad1CueYe8NY/1/4OpsuMVROfF98wvTuQ9vfiWR4MStkVcEhjggO+jSYxfgPbPbavycu/0Jc9E25Q4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qF5BVy8RpGMDA8+mf7KlsZiScMKg61VIiZ2KAvHc/liz3S2U8iR314cyhofJ89LJ5/K8Q8rSZxGQEIMaZUgI0LOr2a6GLiCEGCgJORtd01NZKrSbDqAiRlVwMzLLfCeCZlu1nKpwCLb/hdnDQSimfQPS/8K9tfDaZiSDuZi4rmE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a1bbcb666436b83fe767933e9f93cbae1d88c65204eff66cb1fbbf7f2881e076" Description="" Url=""><as:assemblyIdentity name="jogoDaForca.exe" version="1.0.0.1" publicKeyToken="4e47d21b842dc688" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SENACEDU\eduardo.sjacinto</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>N1NKJslT0blD2wfEyZ2xiGYuTYp+ce2jyi+ihtKIvxU=</DigestValue></Reference></SignedInfo><SignatureValue>GlGgohmur328dRrXI5QLkS4s5ZnbV+NOT15tH3Q92/cZkoa065TqhiqRYlNMI9GuYjCECRh6b0kduVQI8zY3ux80k5a8b9ZqTeas2z28NG2b5O8w2ZVuRVknk89QDX5yHWHo7oogDhE7NRiWMhyup7O/8Q1qQbxVExYTBVe0nNA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qF5BVy8RpGMDA8+mf7KlsZiScMKg61VIiZ2KAvHc/liz3S2U8iR314cyhofJ89LJ5/K8Q8rSZxGQEIMaZUgI0LOr2a6GLiCEGCgJORtd01NZKrSbDqAiRlVwMzLLfCeCZlu1nKpwCLb/hdnDQSimfQPS/8K9tfDaZiSDuZi4rmE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQYVmzMhCIgLBHb2t/0FKyXjANBgkqhkiG9w0BAQsFADA9MTswOQYDVQQDHjIAUwBFAE4AQQBDAEUARABVAFwAZQBkAHUAYQByAGQAbwAuAHMAagBhAGMAaQBuAHQAbzAeFw0xOTA3MDYyMDM3NTVaFw0yMDA3MDYwMjM3NTVaMD0xOzA5BgNVBAMeMgBTAEUATgBBAEMARQBEAFUAXABlAGQAdQBhAHIAZABvAC4AcwBqAGEAYwBpAG4AdABvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCoXkFXLxGkYwMDz6Z/sqWxmJJwwqDrVUiJnYoC8dz+WLPdLZTyJHfXhzKGh8nz0snn8rxDytJnEZAQgxplSAjQs6vZroYuIIQYKAk5G13TU1kqtJsOoCJGVXAzMst8J4JmW7WcqnAItv+F2cNBKKZ9A9L/wr218NpmJIO5mLiuYQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJPISz0+iKzW3gek79YY+kpNfqhgxn3DjTmo1xpu02vLjFALm2QVgwe7C5JLDKvRXQqgfbryMRlkUFh0bcACiKO7SsuFRIxMEc+6eJ+loQ+EMgqqp672GABYVS+adXAzN8cFGOp36MfOrCYFdSsDM9QyXunzUdztqo/mH47o7OtC</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
